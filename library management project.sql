@@ -67,12 +67,12 @@ insert into book(book_id,price,title,author,available) values(4237,257,'travel h
 select * from book;
 
 insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2461,'Shuvo', 'Badda, Dhaka-1212', '12-03-2017','ASDF12'); 
-insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2462,'Injam', 'Gulshan, Dhaka-1212', '13-03-2017','ASDF13');
-insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2463,'Injam Shuvo', 'Baridhara, Dhaka-1212', '12-04-2017','ASDF14');
-insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2464,'Injamul Shuvo', 'Banani, Dhaka-1212', '19-04-2017','ASDF15');
-insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2465,'Injamul haque Shuvo', 'Purbachal, Dhaka-1212', '11-09-2017','ASDF16');
-insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2466,'Md. Injamul haque', 'Dhanmondi, Dhaka-1212', '14-06-2017','ASDF17');
-insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2467,'Shuvo Injam', 'Khilkhet, Dhaka-1212', '12-12-2017','ASDF18');
+insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2462,'Rafi', 'Gulshan, Dhaka-1212', '13-03-2017','ASDF13');
+insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2463,'Rasel', 'Baridhara, Dhaka-1212', '12-04-2017','ASDF14');
+insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2464,'Kabir', 'Banani, Dhaka-1212', '19-04-2017','ASDF15');
+insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2465,'Kashem', 'Purbachal, Dhaka-1212', '11-09-2017','ASDF16');
+insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2466,'Shamim', 'Dhanmondi, Dhaka-1212', '14-06-2017','ASDF17');
+insert into member(member_id,name,mem_address,join_date,slot_location_id) values(2467,'Shakib', 'Khilkhet, Dhaka-1212', '12-12-2017','ASDF18');
 
 select * from member;
 
